@@ -46,7 +46,7 @@
         "@babel/preset-env": "^7.1.6",
         "@babel/register": "^7.0.0",
         "@types/chai": "^4.1.6",
-        "@types/lodash": "^4.14.145",
+        "@types/lodash": "^4.14.149",
         "@types/mocha": "^5.2.5",
         "@types/moxios": "^0.4.8",
         "@types/node": "^10.12.0",
